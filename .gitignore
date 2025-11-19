@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Packages
+packages/
+*.nupkg
+
+# Rider
+.idea/
+
+# Temporary files
+*~
+*.bak
+*.tmp
+*.log
+*.pdb
+*.dll
+*.exe
+*.cache
+*.userprefs
+*.pid
+*.lock
+tmp.*
