@@ -1,0 +1,11 @@
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/bin/Debug/net8.0/CareerMap.Recommendations.Domain.deps.json
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/bin/Debug/net8.0/CareerMap.Recommendations.Domain.dll
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/bin/Debug/net8.0/CareerMap.Recommendations.Domain.pdb
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/obj/Debug/net8.0/CareerMap.Recommendations.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/obj/Debug/net8.0/CareerMap.Recommendations.Domain.AssemblyInfoInputs.cache
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/obj/Debug/net8.0/CareerMap.Recommendations.Domain.AssemblyInfo.cs
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/obj/Debug/net8.0/CareerMap.Recommendations.Domain.csproj.CoreCompileInputs.cache
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/obj/Debug/net8.0/CareerMap.Recommendations.Domain.dll
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/obj/Debug/net8.0/refint/CareerMap.Recommendations.Domain.dll
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/obj/Debug/net8.0/CareerMap.Recommendations.Domain.pdb
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Domain/obj/Debug/net8.0/ref/CareerMap.Recommendations.Domain.dll

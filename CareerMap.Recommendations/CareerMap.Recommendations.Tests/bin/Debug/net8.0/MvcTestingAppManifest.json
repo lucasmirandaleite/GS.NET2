@@ -1,0 +1,5 @@
+{
+  "CareerMap.Recommendations.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/ubuntu\/CareerMap.Recommendations\/CareerMap.Recommendations\/CareerMap.Recommendations.Api",
+  "CareerMap.Recommendations.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/ubuntu\/CareerMap.Recommendations\/CareerMap.Recommendations\/CareerMap.Recommendations.Domain",
+  "CareerMap.Recommendations.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/home\/ubuntu\/CareerMap.Recommendations\/CareerMap.Recommendations\/CareerMap.Recommendations.Infrastructure"
+}

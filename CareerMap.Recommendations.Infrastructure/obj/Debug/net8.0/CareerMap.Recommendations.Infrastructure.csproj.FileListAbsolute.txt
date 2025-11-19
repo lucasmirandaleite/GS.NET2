@@ -1,0 +1,17 @@
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/bin/Debug/net8.0/CareerMap.Recommendations.Infrastructure.deps.json
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/bin/Debug/net8.0/CareerMap.Recommendations.Infrastructure.runtimeconfig.json
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/bin/Debug/net8.0/CareerMap.Recommendations.Infrastructure.dll
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/bin/Debug/net8.0/CareerMap.Recommendations.Infrastructure.pdb
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/bin/Debug/net8.0/CareerMap.Recommendations.Domain.dll
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/bin/Debug/net8.0/CareerMap.Recommendations.Domain.pdb
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/CareerMap.Recommendations.Infrastructure.csproj.AssemblyReference.cache
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/CareerMap.Recommendations.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/CareerMap.Recommendations.Infrastructure.AssemblyInfoInputs.cache
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/CareerMap.Recommendations.Infrastructure.AssemblyInfo.cs
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/CareerMap.Recommendations.Infrastructure.csproj.CoreCompileInputs.cache
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/CareerMap.Recommendations.Infrastructure.csproj.CopyComplete
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/CareerMap.Recommendations.Infrastructure.dll
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/refint/CareerMap.Recommendations.Infrastructure.dll
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/CareerMap.Recommendations.Infrastructure.pdb
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/CareerMap.Recommendations.Infrastructure.genruntimeconfig.cache
+/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/Debug/net8.0/ref/CareerMap.Recommendations.Infrastructure.dll

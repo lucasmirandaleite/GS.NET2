@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CareerMap.Recommendations.Api.props" />
+</Project>

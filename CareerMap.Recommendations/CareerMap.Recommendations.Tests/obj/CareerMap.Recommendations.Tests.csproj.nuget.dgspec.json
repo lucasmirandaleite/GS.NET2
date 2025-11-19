@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Tests/CareerMap.Recommendations.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Api/CareerMap.Recommendations.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Api/CareerMap.Recommendations.Api.csproj",
+        "projectName": "CareerMap.Recommendations.Api",
+        "projectPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Api/CareerMap.Recommendations.Api.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Domain/CareerMap.Recommendations.Domain.csproj": {
+                "projectPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Domain/CareerMap.Recommendations.Domain.csproj"
+              },
+              "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/CareerMap.Recommendations.Infrastructure.csproj": {
+                "projectPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/CareerMap.Recommendations.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Domain/CareerMap.Recommendations.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Domain/CareerMap.Recommendations.Domain.csproj",
+        "projectName": "CareerMap.Recommendations.Domain",
+        "projectPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Domain/CareerMap.Recommendations.Domain.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/CareerMap.Recommendations.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/CareerMap.Recommendations.Infrastructure.csproj",
+        "projectName": "CareerMap.Recommendations.Infrastructure",
+        "projectPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/CareerMap.Recommendations.Infrastructure.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Domain/CareerMap.Recommendations.Domain.csproj": {
+                "projectPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Domain/CareerMap.Recommendations.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Tests/CareerMap.Recommendations.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Tests/CareerMap.Recommendations.Tests.csproj",
+        "projectName": "CareerMap.Recommendations.Tests",
+        "projectPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Tests/CareerMap.Recommendations.Tests.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Api/CareerMap.Recommendations.Api.csproj": {
+                "projectPath": "/home/ubuntu/CareerMap.Recommendations/CareerMap.Recommendations/CareerMap.Recommendations.Api/CareerMap.Recommendations.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
