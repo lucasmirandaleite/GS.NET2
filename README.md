@@ -26,12 +26,14 @@ Esta é a implementação da API de Recomendações para o projeto **CareerMap**
     ```
 2.  **Rode a aplicação:**
     ```bash
+    dotnet restore
+    dotnet build
     dotnet run
     ```
 3.  **Acesse o Swagger:**
-    A API estará disponível em `http://localhost:5000` (ou outra porta configurada). O Swagger UI (documentação interativa) estará em:
+    A API estará disponível em `http://localhost:5097` (ou outra porta configurada). O Swagger UI (documentação interativa) estará em:
     ```
-    http://localhost:5000/swagger
+    http://localhost:5097/swagger
     ```
 
 ## 🔗 Endpoints Principais (v1)
@@ -67,4 +69,4 @@ O projeto segue a arquitetura de Camadas (Domain, Infrastructure, API):
 *   **`CareerMap.Recommendations.Tests`**: Contém os testes de integração.
 
 ---
-*Desenvolvido por Manus AI para Global Solution 2025.*
+
