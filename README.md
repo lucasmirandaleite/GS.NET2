@@ -1,5 +1,9 @@
 # CareerMap.Recommendations.Api - API de Recomendações (.NET 8)
 
+👥 Integrantes da Equipe
+Lucas Miranda Leite RM:555161
+Gusthavo Daniel De Souza RM:554681
+Guilherme Damasio Roselli RM:555873
 Esta é a implementação da API de Recomendações para o projeto **CareerMap**, desenvolvida em .NET 8, conforme os requisitos da disciplina **Advanced Business Development with .NET** da Global Solution 2025.
 
 ## 🚀 Requisitos Atendidos
